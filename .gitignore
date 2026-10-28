@@ -4,7 +4,6 @@ __pycache__/
 *.py[cod]
 *.pyo
 *.egg-info/
-.env
 *.db
 
 # Node
@@ -22,5 +21,6 @@ client/.env.*.local
 Thumbs.db
 
 # IDEs
-.vscode/
 .idea/
+config.bat
+node_modules

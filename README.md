@@ -1,4 +1,4 @@
-# SmartDocAI v2.0 — Glassmorphism + Skeuomorphism Edition
+# SmartDocAI 
 
 A full-stack AI document intelligence platform with a modern MERN-style React frontend
 and an enhanced FastAPI backend.
